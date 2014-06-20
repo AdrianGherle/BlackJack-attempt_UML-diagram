@@ -1,7 +1,7 @@
 BlackJack-attempt_UML-diagram
 =============================
 
-BlackJack - attempt
+BlackJack-attempt
 
 This is a simplified version of the BlackJack card game. The game has only one player and a dealer. A player is dealt cards (called a hand), each of which has a point value. The objective of the game is to get as close to 21 points as possible without going over. A player that goes over is out of the game.
 
@@ -12,5 +12,5 @@ The player starts the game first by getting two cards from the deck. If the play
 There is one exception to this rule: if either the player and the dealer totals 22 points from just the first two cards (two ace's) that is considered BlackJack and not bust. 
 
 Card values:
-1 - 11  = value represented by the number
+1 - 11  = value represented by the number 
 12 - 13 = 10 points (J, Q, K)
